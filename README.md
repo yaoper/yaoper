@@ -5,20 +5,13 @@
 </picture>
 
 
-
-
 ### Hi there 👋
 <!--
 **yaoper/yaoper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
 -->
+This is the place where I opensource stuff and break things :rofl:
+
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning `VUE` && `Swift` &&  `ML` && `K8S`
+- 💬 Ask me about `Java` or `Bigdata` or `MySQL`
+- 📫 How to reach me: This is my home page https://blog.yaoper.cn
